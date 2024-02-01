@@ -28,5 +28,6 @@ To convert the generated text files into visual mazes, follow these steps:
 1. Run the `mazeDrawer` application.
 2. Enter the name of the text file you want to visualize (e.g., `maze_1.txt`).
 3. After the program terminates, open the `mazeDrawn.txt` file to view the generated maze.
+- Note: `mazeDrawer` application only works for generating maze files. It is not possible to visualize path files.
 
-Ensure that you carefully specify the coordinates for the start and end points to guarantee a unique path within the maze. Explore the generated mazes and enjoy experimenting with different configurations!
+Ensure that you carefully specify the coordinates for the start and end points to guarantee a unique path within the maze boundaries. Explore the generated mazes and enjoy experimenting with different configurations!
