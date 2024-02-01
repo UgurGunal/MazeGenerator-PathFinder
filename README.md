@@ -9,8 +9,8 @@ This C++ project implements a maze generator and path finder. The maze generator
 
 ## Setup
 
-1. Download the zip file and extract the `mazeDrawer` application.
-2. Place the `mazeDrawer` application in the project directory.
+1. Download the zip file and extract the `mazeDrawer` application and `libwinpthread-1.dll`.
+2. Place the `mazeDrawer` application and `libwinpthread-1.dll` in the project directory.
 
 ## Running the Program
 
